@@ -14,3 +14,6 @@ print(34)
 print(453)
 
 print("иди нахуй")
+
+
+print('go')
