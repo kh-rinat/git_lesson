@@ -1,0 +1,1 @@
+git_lesson_bot_API = '7155902927:AAEarb7aKLowABW8yiEsAxg3mAa6mgC7d7w'
