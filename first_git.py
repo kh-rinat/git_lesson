@@ -17,3 +17,5 @@ print("иди нахуй")
 
 
 print('идите нахуй все')
+
+print('one more time go')
